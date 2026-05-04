@@ -6,9 +6,6 @@ Voltar ao [Glossário de Conceitos](README.md)
 
 O **Group** (ou adivinhem, no português, um Grupo!! Quem diria não é mesmokkkk?) é a forma mais simples de organizar elementos no Figma. Ao contrário do Frame, um grupo não tem propriedades próprias (como cor de fundo ou bordas); ele serve apenas para manter vários objetos juntos, facilitando a movimentação e a organização da lista de camadas.
 
-![Exemplo de Grupo vs Frame](caminho/para/sua_imagem.png)
-*Dica: Note que no painel de camadas, o ícone do Grupo é um quadrado pontilhado, enquanto o do Frame é um jogo da velha (#).*
-
 ## Como funciona?
 
 O Grupo é "preguiçoso" e depende inteiramente do que está dentro dele:
