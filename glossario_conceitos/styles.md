@@ -12,7 +12,7 @@ salva demais porque ter que ficar aplicando essas coisas manualmente é tipo top
 O maior benefício dos Estilos é a **padronização e a atualização em massa**:
 
 - **Controle Centralizado:** Se você criar um estilo chamado `Cor Principal` (um roxo, por exemplo) e aplicá-lo em 50 telas diferentes, no dia em que a sua equipe decidir mudar a cor da marca para azul, você só precisa editar o estilo `Cor Principal` uma única vez. Todas as 50 telas serão atualizadas instantaneamente.
-- 
+
 Ai você vai poder usar esse tempo que você economizou em não ter que atualizar 50 telas diferentes para fazer coisas legais, tipo ver reels do instagram, legal né?
 - **Evita o "Olhômetro":** Garante que toda a equipe de desenvolvedores e designers esteja usando exatamente as mesmas cores e fontes, mantendo a consistência do sistema.
 
