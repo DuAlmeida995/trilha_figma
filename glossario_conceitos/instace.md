@@ -23,7 +23,7 @@ A relação entre Mestre e Instância é baseada em herança, mas com flexibilid
 - **Push Changes to Main Component:** Se você fez uma alteração em uma instância e percebeu que ela ficou tão boa que deveria virar o novo padrão (confiança e auto estima lá em cima né, nós somos fodas), você pode "empurrar" essa mudança para o Mestre.
 - **Go to Main Component:** Um atalho rápido para encontrar onde o Componente Mestre está escondido no seu projeto.
 - **Detach Instance:** Quebra o vínculo com o Mestre permanentemente (tipo o Tai Lung com o Mestre Shifu), transformando a instância em um Frame comum.
-- 
+
 ## Palavras chaves
 
 `instância`, `cópia`, `herança`, `sobrescrita`, `override`, `objeto`
