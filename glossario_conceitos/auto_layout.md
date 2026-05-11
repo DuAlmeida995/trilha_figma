@@ -22,7 +22,7 @@ Quando você ativa o Auto Layout em um Frame, você para de arrastar os elemento
 - **Padding:** Define o espaço entre a borda do Frame e o conteúdo dentro dele.
 - **Redimensionamento (Resizing):** Você pode definir se o elemento deve ter um tamanho Fixo (`Fixed`), se deve "abraçar" o conteúdo e crescer junto com o texto (`Hug contents`) ou se deve se esticar para preencher todo o espaço livre (`Fill container`).
 
-![](assets/auto_layout1.png)
+![](assets/auto_layout.png)
 
 ## Por que usar?
 
