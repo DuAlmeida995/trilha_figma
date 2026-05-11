@@ -1,6 +1,6 @@
 # Figma: Guia de Aprendizado e Consulta
 
-Bem vindo nobre viajante! Esse é o início do material didático da Conway que irá abordar uma ferramenta incrível e essencial para dar cara e interatividade aos nossos projetos: o Figma.
+Bem vindo nobre viajante! Esse é o início de um material didático que irá abordar uma ferramenta incrível e essencial para dar cara e interatividade aos nossos projetos: o Figma.
 
 Objetivo aqui é aprendemos a perder o medo da tela em branco e estruturar interfaces, além de fornecer um conhecimento gerais sobre os principais conceitos do Figma.
 
