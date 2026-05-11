@@ -10,7 +10,7 @@ Sendo bem sincero, ele provavelmente não vai ser "útil" nem abordado nas aulas
 
 Pense nele como uma grande lousa de vidro na parede de uma sala de reunião, onde a equipe pode colar post-its, desenhar fluxogramas e jogar ideias soltas antes de começar o trabalho técnico. É muito divertido e bonitinho vei
 
-*Dica: Arquivos do FigJam têm um ícone roxo e amarelo na tela inicial, diferente do ícone colorido tradicional dos arquivos de design do Figma.*
+![](assets/figjam.md)
 
 ## Como funciona?
 
