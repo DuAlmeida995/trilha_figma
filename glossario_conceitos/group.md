@@ -18,7 +18,7 @@ Exemplo bobinho:
 
 Grupo composto por dois retângulos. Ao selecionamos um retângulo, automaticamente selecionamos o outro, assim se mexermos um, mexermos o outro, e vice-versa. (agora que eu vi os retângulos ficaram com a numeração 67, esse número me persegue eu vou ficar louco)
 
-![](assets/group.md)
+![](assets/group.png)
 
 ## Quando usar?
 
