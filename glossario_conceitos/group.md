@@ -14,6 +14,12 @@ O Grupo é "preguiçoso" e depende inteiramente do que está dentro dele:
 - **Seleção em Bloco:** Ao clicar em qualquer item de um grupo, o Figma seleciona o grupo inteiro. Isso é ótimo para mover logotipos complexos ou ilustrações feitas de várias formas pequenas.
 - **Sem Propriedades:** Se você tentar colocar uma cor de fundo em um Grupo, o Figma aplicará essa cor em **todos** os objetos dentro dele individualmente, e não no fundo do "contêiner".
 
+Exemplo bobinho:
+
+Grupo composto por dois retângulos. Ao selecionamos um retângulo, automaticamente selecionamos o outro, assim se mexermos um, mexermos o outro, e vice-versa. (agora que eu vi os retângulos ficaram com a numeração 67, esse número me persegue eu vou ficar louco)
+
+![](assets/group.md)
+
 ## Quando usar?
 
 Use Grupos apenas para organização básica. Se você precisar de controle de layout, grids, ou quiser que o fundo tenha uma cor específica, **use sempre um Frame**.
