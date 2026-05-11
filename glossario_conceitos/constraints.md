@@ -26,8 +26,11 @@ As Constraints são o que impedem a sua tela de "quebrar" quando você pega um d
 ## Formas de configurar
 
 1. Selecione qualquer elemento que esteja **dentro de um Frame**.
-2. Olhe para o painel da direita, na seção **Constraints**.
-3. Use o pequeno diagrama com pontinhos azuis (ou os menus *dropdown*) para escolher onde você quer "ancorar" o seu elemento (Horizontal e Vertical).
+2. Olhe para o painel da direita, na seção **Position**.
+3. Clique no pequeno **ícone de ancoragem** (um quadrado com linhas) que fica à direita das caixas de coordenadas X e Y.
+![](assets/constraints0.png)
+4. Vai abrir um pequeno menu flutuante onde você pode escolher onde quer "ancorar" o seu elemento (Horizontal e Vertical).
+![](assets/constraints1.png)
 
 ## Palavras chaves
 
