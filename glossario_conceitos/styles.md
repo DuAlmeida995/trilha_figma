@@ -24,6 +24,8 @@ No Figma, você pode criar estilos para quatro categorias principais:
 3. **Efeitos (Effects):** Sombras (Drop Shadow, Inner Shadow) e desfoques (Layer Blur, Background Blur).
 4. **Grids (Layout Grid):** Configurações de colunas e linhas para alinhamento.
 
+![](assets/styles1.png)
+
 ## Formas de criar e usar
 
 - **Para criar:** Selecione um objeto que já está com a cor ou texto desejado. No painel direito, clique no ícone de quatro pontinhos (Style) ao lado da propriedade (ex: Fill), depois clique no ícone de `+` e dê um nome ao seu estilo (ex: `Textos / Título 1`).
