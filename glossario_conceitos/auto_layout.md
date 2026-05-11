@@ -16,10 +16,13 @@ Para qualquer pessoa que já escreveu uma linha de CSS na vida: **:O :O :O :O o 
 
 Quando você ativa o Auto Layout em um Frame, você para de arrastar os elementos livremente e passa a controlá-los por regras lógicas no painel direito:
 
-- **Direção (Direction):** Define se os itens internos vão ficar empilhados na Vertical (uma lista) ou na Horizontal (um menu lateral), ou ainda se vão quebrar a linha automaticamente (Wrap).
+- **Flow (Fluxo):** Define se os itens internos vão ficar empilhados na Vertical (uma lista) ou na Horizontal (um menu lateral), ou ainda se vão quebrar a linha automaticamente (Wrap).
+- **Alignment (Alinhamento):** Uma pequena matriz interativa que define onde os itens vão se agrupar dentro do Frame. Você pode alinhar tudo perfeitamente ao centro, no topo à esquerda, no canto inferior direito, etc.
 - **Espaçamento (Gap):** Define a distância exata em pixels entre cada item. Se você apagar um item no meio da lista, os outros sobem automaticamente para preencher o buraco.
 - **Padding:** Define o espaço entre a borda do Frame e o conteúdo dentro dele.
 - **Redimensionamento (Resizing):** Você pode definir se o elemento deve ter um tamanho Fixo (`Fixed`), se deve "abraçar" o conteúdo e crescer junto com o texto (`Hug contents`) ou se deve se esticar para preencher todo o espaço livre (`Fill container`).
+
+![](assets/auto_layout1.png)
 
 ## Por que usar?
 
