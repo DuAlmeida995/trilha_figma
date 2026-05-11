@@ -38,6 +38,6 @@ Esse material foi sendo feito conforme eu próprio ia aprendendo sobre Figma, en
 
 ## Navegação
 
-- [Guia Prático](guia_pratico/README.md)
+- [Guia Prático](guia_pratico)
 - [Guia de Atalhos e Ferramentas](guia_atalhos_ferramentas/README.md)
 - [Glossário de Conceitos](glossario_conceitos/README.md)
