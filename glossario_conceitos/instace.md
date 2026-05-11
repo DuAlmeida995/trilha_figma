@@ -9,6 +9,12 @@ Uma **Instance** (Instância) é uma cópia "viva" de um Componente Mestre. Elas
 Para desenvolvedores (e fãs do professor Coutinho ;D), se o Componente Mestre é a **Classe**, a Instância é o **Objeto** criado a partir dessa classe. 
 Dá pra reconhecer uma Instância no painel de camadas pelo ícone de um losango simples vazado (◇).
 
+Exemplo:
+
+As Linha_celula com o losango simples vazado são instâncias da Linha_celula componente mestre, que possui o ícone de quatro losangos roxos (❖).
+
+![](assets/components1.png)
+
 ## Como funciona?
 
 A relação entre Mestre e Instância é baseada em herança, mas com flexibilidade:
