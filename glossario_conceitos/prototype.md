@@ -34,6 +34,8 @@ Validar uma ideia em código é caro, demorado e muuiiiittoooooooo chaaatooooo. 
 - ![](assets/prototype2.png)
 5. O painel de Interação vai abrir automaticamente para você configurar o *Trigger*, *Action* e *Animation*.
 6. Clique no ícone de "Play" (Present) no canto superior direito para testar a simulação!
+- ![](assets/prototype3.png)
+- ![](assets/prototype4.png)
 
 ## Palavras chaves
 
