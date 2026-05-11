@@ -31,7 +31,7 @@ Todas essas ferramentas possuem versões gratuitas e serão utilizadas ao longo 
 O material está dividido em três seções principais:
 
 1. **Guia Prático**: Tutoriais passo a passo que vão desde a apresentação da interface até a criação de um protótipo interativo completo.
-2. **Guia de Ferramentas e Atalhos**: Uma lista detalhada das principais ferramentas, painéis e atalhos de teclado que vão salvar horas do seu trabalho.
+2. **Guia de Atalhos e Ferramentas**: Uma lista detalhada das principais ferramentas, painéis e atalhos de teclado que vão te dar uma mão para conseguir mexer e criar coisas no Figma de forma mais fácil.
 3. **Glossário de Conceitos**: Definições fáceis de entender sobre os principais termos do design no Figma (como *Frames*, *Auto Layout*, *Componentes*, *Constraints*, etc.).
 
 Esse material foi sendo feito conforme eu próprio ia aprendendo sobre Figma, então qualquer sugestão que você tenha de como melhorar algo ou alguma dúvida que surgiu, fique a vontade para entrar em contato comigo ;).
@@ -39,5 +39,5 @@ Esse material foi sendo feito conforme eu próprio ia aprendendo sobre Figma, en
 ## Navegação
 
 - [Guia Prático](guia_pratico/README.md)
-- [Guia de Ferramentas e Atalhos](guia_ferramentas/README.md)
+- [Guia de Atalhos e Ferramentas](guia_atalhos_ferramentas/README.md)
 - [Glossário de Conceitos](glossario_conceitos/README.md)
