@@ -16,6 +16,14 @@ Aqui estão algumas características importantes dos Frames:
 
 - **Eles podem ser aninhados**: Você pode colocar Frames dentro de Frames! (Sim incrivel não é !? :O ) Por exemplo: a tela inteira do celular é um Frame. O cabeçalho é outro Frame dentro dela. O botão dentro do cabeçalho é um terceiro Frame. Podemos ter N Frames com lim N -> ♾️ (quem disse que cálculo não serve pra nada?)
 
+Exemplo:
+
+Temos aqui o Frame 203, que é o retângulo do banner, e dentro dele temos outro frame, o Frame 201, que é um retângulo menor.
+
+![](assets/frame203.png)
+
+![](assets/frame201.png)
+
   ## Palavras chaves
 
 - `tela`, `prancheta`, `container`, `clip content`, `div`, `layout`
