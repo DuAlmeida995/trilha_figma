@@ -32,9 +32,11 @@ valorize os seus eachamigos pessoa que estiver lendo!
 
 ## Formas de criar
 
-- **Atalho principal:** Selecione o Frame ou Grupo que deseja transformar e pressione `Ctrl + Alt + K` (ou `Cmd + Option + K`).
+- **Atalho principal:** Selecione o Frame, Grupo, retângulo ou coisa que você deseja transformar e pressione `Ctrl + Alt + K` 
 - **Menu superior:** Clique no ícone de quatro losangos (❖) na barra de ferramentas superior do Figma.
+![](assets/components2.png)
 - **Menu de contexto:** Clique com o botão direito na seleção e escolha **Create component**.
+![](assets/components3.png)
 
 ## Palavras chaves
 
