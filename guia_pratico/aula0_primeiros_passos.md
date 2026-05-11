@@ -7,11 +7,12 @@ sem precisar instalar nada, caso assim você queira.
 
 ## 1. A Maracutaia de como conseguir Conta Pro no Figma sem gastar 1 centavo (Ou obrigado Deus por termos Email USP)
 
-O Figma tem um plano gratuito muitissimo bom, mas ele possui algumas limitações, como a quantidade de arquivos e páginas que você pode criar dentro de um time, além de ser possível acessar o DevMode. Como o nosso foco é desenvolver projetos de forma colaborativa, nós vamos usar o **Figma for Education**, que libera o plano **Professional de graça**.
+O Figma tem um plano gratuito muitissimo bom, mas ele possui algumas limitações, como a quantidade de arquivos e páginas que você pode criar dentro de um time, além de não ser possível acessar o DevMode. Como somos
+seres com muita sapiciência e esperteza que passou na USP, nós vamos usar o **Figma for Education**, que libera o plano **Professional de graça**.
 
 **Como garantir sua conta Pro:**
 1. Acesse a página do [Figma para Educação](https://www.figma.com/education/).
-2. Clique em **Get verified** (Verifique-se).
+2. Clique em **Get verified/Faça sua verificação**.
 3. Crie sua conta usando o seu e-mail institucional (o seu `@usp.br`).
 4. Preencha o formulário rápido informando que você é estudante. O Figma costuma aprovar rapidamente.
 5. Pronto! Agora você tem acesso a recursos avançados (como o Dev Mode completo) sem pagar nada.
@@ -35,7 +36,7 @@ Com o Figma aberto, a tela inicial (Dashboard) pode parecer um pouco vazia no co
 2. Um arquivo em branco será aberto.
 3. Dê um duplo clique no texto "Untitled" lá no topo da tela, bem no centro, e renomeie o arquivo para `algumNomeMuitoLegalToSemIdeiasAikaPorFavorMeAjuda`.
 
-Tudo pronto! Seu ambiente está configurado, você tem uma conta Pro e um arquivo em branco te esperando. Agora já podemos começar a sujar as mãos nas próximas aulas hehehe.
+Tudo pronto! Seu ambiente está configurado, você tem uma conta Pro, um arquivo em branco te esperando, e muita força e dedicação para aprender. Agora já podemos começar a sujar as mãos nas próximas aulas hehehe.
 
 ---
 **Próximo passo:** Vamos entender como organizar a nossa tela. Siga para a [Aula 1: (nome da aula01)]
