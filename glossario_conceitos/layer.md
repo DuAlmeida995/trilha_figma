@@ -19,7 +19,7 @@ Exemplo:
 
 Manter as camadas organizadas é essencial para o *hand-off* (passagem do design para o código):
 
-1. **Nomes Claros:** Pelo amor de Deus tenta evitar nomes genéricos como "Rectangle Destruidor de Universos Número 43453333". Tenta deixar algo mais semântico `btn_confirmar` ou `card_transacao`. Isto facilita muito a vida dos seus amiguinhos que forem transformar o design em código.
+1. **Nomes Claros:** Tenta evitar nomes genéricos (tipo os do exemplo acimakkkkkk) como "Rectangle Destruidor de Universos Número 43453333". Tenta deixar algo mais semântico `btn_confirmar` ou `card_transacao`. Isto facilita muito a vida dos seus amiguinhos que forem transformar o design em código. Obviamente as vezes é muito trabalho e talvez não valha a pena renomear cada coisinha, mas os principais é bom ter um nome claro.
 2. **Pastas e Hierarquia:** Quando agrupamos (`Ctrl + G`) ou criamos Frames (`Ctrl + Alt + G`), estamos criando uma hierarquia. Use isso para agrupar elementos que pertencem à mesma lógica visual (ex: todos os elementos do cabeçalho dentro de um Frame chamado `Header`).
 
 ## Atalhos Principais
