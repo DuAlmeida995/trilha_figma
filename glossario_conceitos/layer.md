@@ -11,6 +11,8 @@ Também temos um ícone de **Olho** qe podemos clicar para esconder uma camada t
 
 Além disso, também temos o ícone do **Cadeado**, que basicamente trava a camada e impede nós seres humanos bobinhos e atrapalhados de fazemos burrada de selecionar ou mover um objeto por acidente enquanto estamos mexendo em outras partes do design.
 
+Exemplo:
+
 ![](assets/layers.png)
 
 ## Algumas Dicas
