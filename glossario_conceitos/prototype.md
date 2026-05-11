@@ -28,11 +28,11 @@ Validar uma ideia em código é caro, demorado e muuiiiittoooooooo chaaatooooo. 
 
 1. No canto superior direito da tela, mude a aba de **Design** para **Prototype**.
 - ![](assets/prototype1.png)
-3. Selecione um elemento (como um botão) em um Frame.
-4. Clique e segure a bolinha azul com o sinal de `+` que aparece na borda do elemento.
-5. Arraste a linha azul até o Frame de destino (a tela que deve abrir após o clique).
-6. O painel de Interação vai abrir automaticamente para você configurar o *Trigger*, *Action* e *Animation*.
-7. Clique no ícone de "Play" (Present) no canto superior direito para testar a simulação!
+2. Selecione um elemento (como um botão) em um Frame.
+3. Clique e segure a bolinha azul com o sinal de `+` que aparece na borda do elemento.
+4. Arraste a linha azul até o Frame de destino (a tela que deve abrir após o clique).
+5. O painel de Interação vai abrir automaticamente para você configurar o *Trigger*, *Action* e *Animation*.
+6. Clique no ícone de "Play" (Present) no canto superior direito para testar a simulação!
 
 ## Palavras chaves
 
