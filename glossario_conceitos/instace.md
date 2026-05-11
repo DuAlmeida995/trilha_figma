@@ -30,7 +30,7 @@ A relação entre Mestre e Instância é baseada em herança, mas com flexibilid
 - **Go to Main Component:** Um atalho rápido para encontrar onde o Componente Mestre está escondido no seu projeto.
 - **Detach Instance:** Quebra o vínculo com o Mestre permanentemente (tipo o Tai Lung com o Mestre Shifu), transformando a instância em um Frame comum.
 
-![](assets/instace.png)
+![](assets/instance.png)
 
 ## Palavras chaves
 
