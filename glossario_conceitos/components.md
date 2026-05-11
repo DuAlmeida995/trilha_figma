@@ -8,6 +8,12 @@ Um **Componente** é um elemento de interface (como um botão, um ícone ou um c
 
 Para meus programadores de padrão e fãs do Professor Coutinho, um compomente mestre funciona como uma Classe da computação orientada a objetos. Dá pra reconhecer esses carinhas no painel de camadas pelo ícone de quatro losangos roxos (❖).
 
+Exemplo:
+
+Temos o componente linha_celula, e abaixo dele, instâncias do mesmo
+
+![](assets/components1.png)
+
 ## Como funciona?
 
 O poder do componente está na replicação e na herança:
