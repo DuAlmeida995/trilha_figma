@@ -11,6 +11,8 @@ Também temos um ícone de **Olho** qe podemos clicar para esconder uma camada t
 
 Além disso, também temos o ícone do **Cadeado**, que basicamente trava a camada e impede nós seres humanos bobinhos e atrapalhados de fazemos burrada de selecionar ou mover um objeto por acidente enquanto estamos mexendo em outras partes do design.
 
+![](assets/layers.png)
+
 ## Algumas Dicas
 
 Manter as camadas organizadas é essencial para o *hand-off* (passagem do design para o código):
@@ -20,7 +22,7 @@ Manter as camadas organizadas é essencial para o *hand-off* (passagem do design
 
 ## Atalhos Principais
 
-- **Renomear Camada:** Seleciona o item e aperte `Ctrl + R` (ou `Cmd + R`).
+- **Renomear Camada:** Seleciona o item e aperte `Ctrl + R` 
 - **Trazer para a Frente:** `]`
 - **Enviar para Trás:** `[`
 - **Esconder/Mostrar:** `Ctrl + Shift + H`
