@@ -21,6 +21,7 @@ Quando você ativa o Auto Layout em um Frame, você para de arrastar os elemento
 - **Espaçamento (Gap):** Define a distância exata em pixels entre cada item. Se você apagar um item no meio da lista, os outros sobem automaticamente para preencher o buraco.
 - **Padding:** Define o espaço entre a borda do Frame e o conteúdo dentro dele.
 - **Redimensionamento (Resizing):** Você pode definir se o elemento deve ter um tamanho Fixo (`Fixed`), se deve "abraçar" o conteúdo e crescer junto com o texto (`Hug contents`) ou se deve se esticar para preencher todo o espaço livre (`Fill container`).
+- **Clip content (Recortar Conteúdo):** Se ativada, essa caixinha esconde visualmente qualquer coisa que "vaze" ou transborde para fora das bordas do Frame. Essencial para criar componentes de listas roláveis ou carrosséis.
 
 ![](assets/auto_layout.png)
 
