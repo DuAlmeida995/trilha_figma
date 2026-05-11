@@ -31,7 +31,7 @@ Sem variantes, você teria que nomear seus componentes como `Botão / Primário 
 - **A partir de um Componente:** Selecione um Componente Mestre, vá ao painel direito (Properties), clique no `+` e escolha **Variant**. Isso criará uma borda tracejada ao redor dele e uma cópia exata dentro.]
 ![](assets/variants1.png)
 - **A partir de vários Componentes:** Se você já criou vários botões soltos, selecione todos eles, vá ao painel direito e clique em **Combine as variants**.
-![](assets/variants2.png)
+![](assets/variants3.png)
 
 ## Palavras chaves
 
