@@ -34,7 +34,7 @@ Com o Figma aberto, a tela inicial (Dashboard) pode parecer um pouco vazia no co
 
 1. Olhe para o canto superior direito e clique no botão azul **Create** e seguida clique em *Design*.
 2. Um arquivo em branco será aberto.
-3. Dê um duplo clique no texto "Untitled" lá no topo da tela, bem no centro, e renomeie o arquivo para `algumNomeMuitoLegalToSemIdeiasAikaPorFavorMeAjuda`.
+3. Dê um duplo clique no texto "Untitled" lá no topo esquerdo da tela, e renomeie o arquivo para `algumNomeMuitoLegalToSemIdeiasAikaPorFavorMeAjuda`.
 
 Tudo pronto! Seu ambiente está configurado, você tem uma conta Pro, um arquivo em branco te esperando, e muita força e dedicação para aprender. Agora já podemos começar a sujar as mãos nas próximas aulas hehehe.
 
