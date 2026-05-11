@@ -33,7 +33,7 @@ Validar uma ideia em código é caro, demorado e muuiiiittoooooooo chaaatooooo. 
 4. Arraste a linha azul até o Frame de destino (a tela que deve abrir após o clique).
 - ![](assets/prototype2.png)
 5. O painel de Interação vai abrir automaticamente para você configurar o *Trigger*, *Action* e *Animation*.
-6. Clique no ícone de "Play" (Present) no canto superior direito para testar a simulação!
+6. Clique no ícone de "Play" (Present) no canto superior direito para você ser levado para uma nova aba onde você poderá testar a simulação.
 - ![](assets/prototype3.png)
 - ![](assets/prototype4.png)
 
