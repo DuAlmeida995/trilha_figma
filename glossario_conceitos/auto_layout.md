@@ -10,7 +10,7 @@ Para qualquer pessoa que já escreveu uma linha de CSS na vida: **:O :O :O :O o 
 
 *Dica: Você sabe que um Frame tem Auto Layout ativado quando o ícone dele no painel de camadas muda de um jogo da velha (#) para duas barrinhas paralelas.*
 
-![][assets/auto_layout0.png)
+![](assets/auto_layout0.png)
 
 ## Como funciona?
 
