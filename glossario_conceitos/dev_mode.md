@@ -8,7 +8,7 @@ Agora chegamos no queridinho da galera e do setor de sites da COSSI! O **Dev Mod
 
 Para nós, humildes codificadores, é o fim do chutômetro na hora de adivinhar o tamanho de uma margem, cor exata de uma sombra, a fonte, etc. que precisamos colocar no css do nosso código.
 
-Você sabe que está no Dev Mode quando o ícone de código (`</>`) no canto superior direito fica com o fundo verde e a interface ao redor ganha contornos verdes.*
+Você sabe que está no Dev Mode quando o ícone de código (`</>`) no canto superior direito fica com o fundo verde e a interface ao redor ganha contornos verdes, após clica-lo.
 
 E muito infelizmente, ele não está disponível no plano gratuito do Figma, PORÉM! Não desanime, tem uma forma de você conseguir ter acesso ao Figma Pro utilizando o seu E-mail institucional da USP, algo que será abordado em alguma aula ae dessa nossa trilha.
 
