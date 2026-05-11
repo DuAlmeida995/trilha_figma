@@ -10,6 +10,10 @@ Para quem desenvolve (especialmente com frameworks como React), usar uma Variant
 
 *Dica: Um conjunto de Variantes é envolvido por uma caixa com borda roxa tracejada no seu painel de design.*
 
+Exemplo:
+
+![](assets/variants0.png)
+
 ## Como funciona?
 
 As Variantes organizam o caos e limpam o seu painel de *Assets* (biblioteca de componentes):
