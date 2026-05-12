@@ -1,6 +1,6 @@
 # Guia de Atalhos e Ferramentas
 
-Voltar ao [Início](trilha_figma/README.md) 
+Voltar ao [Início](.../README.md) 
 
 Este guia foi pensado como uma colinha para ajudar a ir construindo interfaces no Figma de forma mais rápida. Como o Figma possui várias ferramentas e atalhos, é meio assustador e quase impossível lembrar de todos no começo,
 mas, conforme você vai utilizando-os, eles irão acabar ficando na memória. Esperamos que esse guia auxilie nisso:
