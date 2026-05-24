@@ -12,10 +12,10 @@
 * [Component](component.md) — Criando elementos reutilizáveis (Classes).
 * [Instance](instance.md) — Utilizando cópias de componentes (Objetos).
 * [Variant](variant.md) — Gerenciando estados e propriedades (Props).
+* [Slot](slot.md) — Técnica para criar espaços reservados dentro de componentes.
 
 * [Auto Layout](auto_layout.md) — O "Flexbox" do Figma para designs dinâmicos.
 * [Constraints](constraints.md) — Definindo regras de ancoragem e redimensionamento.
-
 
 * [Prototype](prototype.md) — Dando vida ao projeto com fluxos clicáveis e animações.
 * [Dev Mode](dev_mode.md) — A ferramenta de inspeção para desenvolvedores extraírem código.
